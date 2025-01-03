@@ -1,6 +1,6 @@
 [package]
-name = "package"
-version = "0.1.0"
+name = "packagezz"
+version = "0.1.1"
 edition = "2021"
 description = "this is the description"
 license = "MIT"
